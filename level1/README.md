@@ -13,4 +13,5 @@ you can see readme file
     cat readme
     
 this means you can see entire information of this file
+
 logout from bandit0 first then ssh way again, inject password, DONE!

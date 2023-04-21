@@ -7,7 +7,6 @@ check filetypes by using ./*
 
 ---
 
-level6
 
     find -readable -size 1033c
     

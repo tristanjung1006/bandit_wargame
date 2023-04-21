@@ -4,4 +4,5 @@ check filetypes by using ./*
     file --*
     
 "*" any strings a.k.a. WILDCARD
+
 ---
